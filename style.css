@@ -7,3 +7,27 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+.page{
+    background-color: #B91450;
+}
+
+#prezzo-biglietto{
+    background-color: white;
+}
+
+main{
+    background-color: white;
+}
+
+footer{
+    background-color: white;
+}
+
+h2{
+    color: white;
+}
+
+#name{
+    color: white;
+}
